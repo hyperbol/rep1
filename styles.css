@@ -13,6 +13,9 @@ nav{
     height: 80px;
     width: 100%;
 }
+img{
+    max-width: 100%;
+}
 label.logo{
     color: white;
     font-size: 35px;
